@@ -1,7 +1,6 @@
 import React from "react";
 import "./App.css";
 import NavBar from "./NavBar";
-import HeroSlider from "./HeroSlider";
 import Home from "./Home";
 import Services from "./Services";
 import Contact from "./Contact";
